@@ -1,4 +1,4 @@
-# imc-javascript
-Projeto do Senai para aprendizado da linguagem JavaScript e Local Storage
+# imc-logica-js
+Projeto para pratica de lógica de programação. O Projeto consiste em utilizar as estruturas de programação estudadas em sala de aula.
 
-https://fe-lippe.github.io/imc-javascript/
+Disponível em https://fe-lippe.github.io/imc-javascript/
